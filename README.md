@@ -1,4 +1,4 @@
-# ♟️ The work speaks.
+## ♟️ The work speaks..
 
 ### ⚜️ About Me:
 🔭 I’m currently working on AI-powered systems, open-source projects, and building products that solve real problems.<br><br>👯 I’m looking to collaborate on AI, Full-Stack Development, and Open Source.<br><br>🤝 I’m looking for help with scalable system design, cloud technologies, and advanced software engineering.<br><br>🌱 I’m currently learning distributed systems, modern web technologies, and practical AI engineering.<br><br>💬 Ask me about Python, AI/ML, IoT, and turning ideas into working solutions.<br><br>⚡ Fun fact: I enjoy understanding how things work beneath the surface - whether it's code, systems, or life itself.
